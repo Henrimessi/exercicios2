@@ -1,0 +1,8 @@
+body {
+    background-image: url(imagens/mascote.png);
+    background-size: 100px;
+    border: 1px dashed black;
+    height: 98vh;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
